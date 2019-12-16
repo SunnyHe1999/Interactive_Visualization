@@ -10,7 +10,7 @@
 所有数据均来自世界银行
 
 ### 预计效果
-![预计可视化效果](https://github.com/SunnyHe1999/Interactive_Visualization/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A0%B7%E5%BC%8F.PNGhttps://github.com/SunnyHe1999/Interactive_Visualization/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A0%B7%E5%BC%8F.PNG)
+![预计可视化效果](https://github.com/SunnyHe1999/Interactive_Visualization/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A0%B7%E5%BC%8F.PNG)
 * 可以实现下拉菜单栏选择世界各国GDP、森林覆盖率以及PM2.5空气污染指数  
 * 在下方放置可以滑动的小滑块以查看不同年份的数据
 
