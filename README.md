@@ -17,5 +17,6 @@
 ### 成员要求
 能对前端进行优化，可实现上述的可视化效果。
 
-## 最终成果Pythonanywhere链接：http://liangchuyao.pythonanywhere.com/
+## 最终成果Pythonanywhere链接：http://liangchuyao.pythonanywhere.com/  
+## 数据清洗及图表制作过程：http://nfunm172017136.gitee.io/interactive_visualization/
 
