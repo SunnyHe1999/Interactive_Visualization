@@ -17,5 +17,5 @@
 ### 成员要求
 能对前端进行优化，可实现上述的可视化效果。
 
-## 各位有意向的18大佬请加我微信：Hzy19908  
-## !!!!!!
+## 最终成果Pythonanywhere链接：http://liangchuyao.pythonanywhere.com/
+
